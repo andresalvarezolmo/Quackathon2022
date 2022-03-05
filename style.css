@@ -1,0 +1,27 @@
+/*
+ * General
+ */
+ * {
+    font-family: 'Poppins', 'Open Sans', 'sans-serif'; 
+    color:darkolivegreen;
+  }
+
+  /* body {
+    padding-left: 60px;
+    padding-right: 60px;
+  } */
+
+  #body-sect {
+    padding: 70px;
+  }
+  
+  h3 {
+    color: grey;
+  }
+  
+  footer {
+    font-weight: bold;
+    margin-top: 70px;
+    color:gray;
+  }
+  
