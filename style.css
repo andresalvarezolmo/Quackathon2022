@@ -6,22 +6,29 @@
     color:darkolivegreen;
   }
 
-  /* body {
-    padding-left: 60px;
-    padding-right: 60px;
-  } */
-
   #body-sect {
-    padding: 70px;
+    margin: 70px;
+  }
+
+  .column {
+    float: left;
+    margin-top: 30px;
+    padding: 15px;
+  }
+
+  .row {
+    padding-left: 20px;
+    padding-right: 20px;
   }
   
   h3 {
     color: grey;
   }
   
-  footer {
+  #footer {
     font-weight: bold;
-    margin-top: 70px;
+    padding-top: 60px;
     color:gray;
+    text-align: center;
   }
   
