@@ -4,10 +4,15 @@
  * {
     font-family: 'Poppins', 'Open Sans', 'sans-serif'; 
     color:darkolivegreen;
+    text-align: center;
   }
 
   #body-sect {
-    margin: 70px;
+    margin-left: 80px;
+    margin-right: 80px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    text-align: center;
   }
 
   .column {
@@ -19,6 +24,7 @@
   .row {
     padding-left: 20px;
     padding-right: 20px;
+    padding-top: 10px;
   }
   
   h3 {
