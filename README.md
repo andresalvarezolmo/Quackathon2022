@@ -1,4 +1,7 @@
 # Quackathon2022
+## Web page and results
+Please visit https://andresalvarezolmo.github.io/Quackathon2022
+
 ## Code and data analysis
 ### Disclaimer
 Please note that the code writen coulb be very unefficient sometimes because devolping speed was the key point. Performance is not important as files are meant to be executed only once.
